@@ -1,1 +1,1 @@
-Learning the basics of shell
+Learning how to talk to a computer
